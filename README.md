@@ -28,6 +28,6 @@ The paper works downstream of the current Structural Flow canon, including densi
 Read the full artifact via the DOI link below.
 
 ## Citation
-DOI: (add after Zenodo upload)
+DOI: https://doi.org/10.5281/zenodo.19375220
 
 PDF available via DOI link.
