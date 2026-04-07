@@ -1,4 +1,4 @@
-# Black Holes as Single-Boundary Regimes Under ¯\\(ツ)/¯ (v1.5)
+# Black Holes as Single-Boundary Regimes Under ¯\(ツ)/¯ (v1.5)
 
 ## What this is
 This artifact models black holes under Structural Flow as single-Boundary regimes.
